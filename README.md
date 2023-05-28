@@ -1,1 +1,0 @@
-# Objektorientetais_programmaturas_piemers
